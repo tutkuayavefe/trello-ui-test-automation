@@ -13,6 +13,8 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 
+shelved.patch
+
 # TestNG
 test-output/
 
