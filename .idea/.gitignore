@@ -54,6 +54,7 @@ javascript/webdriver/devtools/types/
 .idea/vcs.xml
 vcs.xml
 .idea/workspace.xml
+workspace.xml
 .idea/dictionaries/
 .idea/scopes/
 .idea/sonarlint/
